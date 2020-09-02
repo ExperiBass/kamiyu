@@ -1,0 +1,2 @@
+# pokebot
+Repo for PokéBot
