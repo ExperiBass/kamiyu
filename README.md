@@ -1,5 +1,7 @@
 # PokéBot
 
+[Invite me here!](https://discord.com/oauth2/authorize?client_id=661708032908066836&permissions=126016&scope=bot)
+
 PokéBot is a small but powerful Discord bot that will happily and quickly give you info on a Pokémon! 
 
 It gives everything from weight to spawn locations, as you can see in the images below:
