@@ -14,7 +14,7 @@ It gives everything from weight to spawn locations, as you can see in the images
 
 ![does anyone read these?](https://github.com/GingkathFox/pokebot/blob/master/Moves.png?raw=true)
 
-![Slightly more detailed info](https://github.com/GingkathFox/pokebot/blob/master/Info.png?raw=true)
+![Slightly more detailed info](https://github.com/GingkathFox/pokebot/blob/master/Additional%20Info.png?raw=true)
 
 ![Am foxxo, hear me screm](https://github.com/GingkathFox/pokebot/blob/master/Locations.png?raw=true)
 
