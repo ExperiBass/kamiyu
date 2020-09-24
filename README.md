@@ -18,6 +18,8 @@ It gives everything from weight to spawn locations, as you can see in the images
 
 ![Am foxxo, hear me screm](https://github.com/GingkathFox/pokebot/blob/master/Locations.png?raw=true)
 
-![Berries!](https://github.com/GingkathFox/pokebot/blob/master/Item%20Search.png?raw=true)
+![Items!](https://github.com/GingkathFox/pokebot/blob/master/Item%20Search.png?raw=true)
+
+![Berries!](https://github.com/GingkathFox/pokebot/blob/master/Berry%20Search.png?raw=true)
 
 It's still in its beginning stages, so if you have any suggestions feel free to create a issue on the [GitHub](https://github.com/GingkathFox/pokebot/issues)!
