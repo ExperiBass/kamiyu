@@ -22,4 +22,6 @@ It gives everything from weight to spawn locations, as you can see in the images
 
 ![Berries!](https://github.com/GingkathFox/pokebot/blob/master/Berry%20Search.png?raw=true)
 
+![Move Searching!](https://github.com/GingkathFox/pokebot/blob/master/Move%20Search.png?raw=true)
+
 It's still in its beginning stages, so if you have any suggestions feel free to create a issue on the [GitHub](https://github.com/GingkathFox/pokebot/issues)!
