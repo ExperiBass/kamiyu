@@ -1,6 +1,6 @@
 # PokéBot
 
-[Invite me here!](https://discord.com/api/oauth2/authorize?client_id=661708032908066836&permissions=318528&scope=bot)
+[Invite me here!](https://discord.com/api/oauth2/authorize?client_id=661708032908066836&permissions=60480&scope=bot)
 
 PokéBot is a small but powerful Discord bot that will happily and quickly give you info on a Pokémon! 
 
