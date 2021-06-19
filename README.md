@@ -6,13 +6,11 @@ Kamiyu is a small but powerful Discord bot that will happily and quickly give yo
 
 It gives everything from weight and spawn locations to moves and berries, as you can see in the images below:
 
-![basic info](/Basic%20Info.png?raw=true)
+![basic info](https://github.com/gingkathfox/kamiyu/blob/master/Basic%20Info.png?raw=true)
 
-![abilities](/Abilities.png?raw=true)
+![abilities](https://github.com/gingkathfox/kamiyu/blob/master/Abilities.png?raw=true)
 
-![stats](/Stats.png?raw=true)
-
-![does anyone read these? Anyways, here's the move search feature!](https://github.com/gingkathfox/kamiyu/blob/master/Moves.png?raw=true)
+![stats](https://github.com/gingkathfox/kamiyu/blob/master/Stats.png?raw=true)
 
 ![Slightly more detailed info](https://github.com/gingkathfox/kamiyu/blob/master/Additional%20Info.png?raw=true)
 
